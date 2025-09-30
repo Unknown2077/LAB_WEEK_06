@@ -64,6 +64,62 @@ class MainActivity : AppCompatActivity() {
                     "Curious George",
                     "Award winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.AmericanCurl,
+                    "Max",
+                    "Loves sunbeams and naps",
+                    "https://cdn2.thecatapi.com/images/9v.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.BalineseJavanese,
+                    "Luna",
+                    "Queen of the scratching post",
+                    "https://cdn2.thecatapi.com/images/bpc.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ExoticShorthair,
+                    "Oliver",
+                    "Chases laser pointers",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.AmericanCurl,
+                    "Molly",
+                    "Purr machine and lap warmer",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyMA.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.BalineseJavanese,
+                    "Shadow",
+                    "Master of hide and seek",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyMg.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ExoticShorthair,
+                    "Charlie",
+                    "Food critic and treat lover",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyNQ.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.AmericanCurl,
+                    "Bella",
+                    "Window bird watcher",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyNg.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.ExoticShorthair,
+                    "Whiskers",
+                    "Curious about everything",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyNw.jpg"
                 )
             )
         )
